@@ -1,0 +1,11 @@
+{
+  "name": "elpcode-web",
+  "version": "1.0.0",
+  "description": "Elpcode website",
+  "main": "index.js",
+  "build": "node main",
+  "repository": "https://github.com/innocentwkc/elpcode-web.git",
+  "author": "Innocent WK Chinyemba <innocentwkc@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
